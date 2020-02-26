@@ -1,0 +1,5 @@
+fileignoreconfig:
+- filename: Figmagic.workflow/Contents/document.wflow
+  checksum: 82c6613772109c50a08efa2dc704d5fb3377e2e5ddf99d6ca0610b6809771980
+  ignore_detectors: []
+scopeconfig: []
