@@ -24,6 +24,9 @@ This is the way that for example my own [Figmagic example](https://github.com/mi
 
 - Right click a folder, and you should see `Figmagic` under the Services category
 
+![Usage demonstration](usage.png)
+_Usage demonstration_
+
 ## Source code
 
 The tiny script that gets run is available under `Figmagic.sh`.
